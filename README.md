@@ -1,1 +1,3 @@
-"# Face-Based-Authentication-System" 
+"# Face-Based-Authentication-System"
+With the need of secure unbreakable authentication systems, we had built the Authentication System based on Face detections and recognitions from live Video Streams captured by the security cameras. It would aim at automatic door opening  for the registered user in the security application. The built app needs to be linked with the door opening appliance like RasberryPi or Arduino. 
+  For registering the candidate, several images are clicked for the person and stored in the dataset folder. If the registered candidate approaches the door, it will automatically open and otherwise it remains closed. 
